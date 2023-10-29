@@ -1,0 +1,177 @@
+{
+  "home_page": {
+    "all": "All",
+    "category": "Category",
+    "last_prdoucts": "Latest products",
+    "best_seller_product": "Bestsellers",
+    "smartphones": "Smartphones",
+    "tv": "TV",
+    "laptop": "Laptop",
+    "smart_watch": "Smart watch",
+    "accsesuar": "Accessories",
+    "buy": "Add"
+  },
+  "navbar": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "shopping_cart": "Shopping cart",
+    "profile": "Profile"
+  },
+  "details_page": {
+    "money" : " Sum",
+    "brand": "Brand: ",
+    "isHave": "Available for sale",
+    "cargo": "Free shipping",
+    "take_away": "Takeout is available",
+    "pay_type": "Types of payment are by card and cash",
+    "get_back": "Return the goods within 10 days",
+    "product_info": "About the product",
+    "characteristic": "Characteristics",
+    "weight": "Weight",
+    "size": "Size",
+    "warranty": "Warranty period",
+    "similar": "Similar products",
+    "order": "Place an order",
+    "year" : "year"
+
+  },
+  "shopping_page": {
+    "not_data": "Cart is empty",
+    "buy" : "Purchase"
+
+  },
+  "profile_page": {
+    "auth" : "Authorization",
+
+    "login": "Sign in",
+    "sign_up": "Sign up",
+    "error" : "Please enter a number first",
+    "number": "Enter your phone number",
+    "write_code" : "Enter the code",
+    "send_to_code" : "A code has been sent to you",
+
+    "not_correct": "Incorrect number entered",
+
+    "code": "Get code",
+    "my_orders": {
+      "title": "My orders",
+      "leading_1": "You have",
+      "leading_2": "orders",
+      "all": "All",
+      "process": "Process",
+      "delivered": "Delivered",
+      "cancelled": "Canceled",
+      "order": "Order",
+      "piece": "Piece",
+      "track_code": "Track code",
+      "more": {
+        "title": "More",
+        "detail": "Learn more",
+        "shipping_adress": "Shipping Address",
+        "pay_type": "Pay type",
+        "cargo" : "Delivery method",
+
+        "free": "Free"
+      },
+      "total": "Total"
+    },
+    "favorite": {
+      "title": "Favorites",
+      "leading_1": "You have",
+      "leading_2": "favorite items",
+      "not_data": "Favorites have not been added yet",
+      "delete_favorite" : {
+        "title" : "Confirm Delete",
+        "description" : "Are you sure you want to delete this item?",
+        "yes" : "YES",
+        "no" : "NO"
+      }
+    },
+    "setting": {
+      "title": "Settings",
+      "account": "Account",
+      "notification": "Notifications",
+      "lang": "Language",
+      "support": "Help and support",
+      "security": "Privacy & Security",
+      "logout": "Logout",
+      "saved" : "Save changes"
+
+    }
+  },
+  "drawer": {
+    "about": "About us",
+    "delivery": "Delivery information",
+    "contact": "Contact us",
+    "location": {
+      "title": "Where we are located",
+      "my_location": "We are located here"
+    },
+    "version": "App version"
+  },
+  "modal_check_order" : {
+    "add_order" : "Do you want to add the product to the cart",
+    "cart" : "In cart: ",
+    "piece" : "Total: ",
+    "get_order" : "Place an order"
+  },
+  "errors" : {
+    "has_error" : "A problem occurred: ",
+    "not_data" : "Sorry, the information could not be retrieved",
+    "not_connection" : "There is a problem with the Internet connection, the data could not be retrieved. Please make sure you are connected to the internet and try again!",
+    "not_favorite" : "Favorites have not been added yet",
+    "connection_1" : "You are not connected to the Internet!",
+    "connection_2" : " Please check your internet."
+  },
+  "cargo" : {
+    "error" : "Sorry for the inconvenience no shipping information has been added yet!"
+  },
+  "onboarding_page" : {
+    "prev": "Transfer",
+    "page_1" : "Now it's easier to buy with us",
+    "page_2" : "Affordable Prices",
+    "page_3" : "Fast delivery clean service",
+    "button" : "Continue",
+    "button_final" : "Register"
+
+  },
+  "new" : "new",
+  "snack_bar" : {
+    "title" : "Oh my favorite product : )",
+    "message" : " this product has been added to favorites"
+  },
+  "help_support" : {
+    "error" : "Sorry for the inconvenience, no information found"
+
+  },
+  "privacy_security" : {
+    "error" : "Sorry for the inconvenience, no information found"
+  },
+  "isAuth" : "Register first",
+  "name" : "Name",
+  "number" : "Phone number",
+  "cart" : {
+    "my_cart": "My Cart",
+    "location": "Location",
+    "total_item" : "Quantity:",
+    "total_price" : "Total:",
+    "payment_type" : "Payment Type",
+    "payment_card": "Payment by card",
+    "payment_money" : "Payment by cash",
+    "continue": "Continue",
+    "add_card": "Add your card",
+    "name" : "NAME SURNAME",
+    "card_number" : "Card number",
+    "validity" : "Validity",
+    "description" : "The card has been added, a confirmation code for payment has been sent to the phone number connected to the card. Please enter the code",
+    "write_code" : "Enter code",
+    "error_card" : "Karta raqam bo'sh"
+
+  },
+  "search_page" : {
+    "error_product" : "Product not found",
+    "search_dialog" : "What are we looking for"
+  }
+
+
+}

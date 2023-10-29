@@ -1,0 +1,170 @@
+{
+  "home_page": {
+    "all": "Hammasi",
+    "category": "Kategoriya",
+    "last_prdoucts": "Eng so'ngliar",
+    "best_seller_product": "Eng ko'p sotilganlar",
+    "smartphones": "Telefonlar",
+    "tv": "Televizor",
+    "laptop": "Notebook",
+    "smart_watch": "Aqlli soatlar",
+    "accsesuar": "Akksesuarlar",
+    "buy": "Savatga"
+  },
+  "navbar": {
+    "home": "Bosh sahifa",
+    "catalog": "Katalog",
+    "shopping_cart": "Savatcha",
+    "profile": "Akkaunt"
+  },
+  "details_page": {
+    "money" : " So'm",
+    "brand": "Brend: ",
+    "isHave": "Sotuvda mavjud",
+    "cargo": "Bepul yetkazib berish",
+    "take_away": "Olib ketish mavjud",
+    "pay_type": "To'lov turlari naqd va plastik karta orqali",
+    "get_back": "Tovarni qaytarib olish 10 kun ichida",
+    "product_info": "Tovar haqida",
+    "characteristic": "Xarakteristikalar",
+    "weight": "Og'irligi",
+    "size": "O'lcham",
+    "warranty": "Kafolat muddati",
+    "similar": "O'xshash tovarlar",
+    "order": "Buyurtma berish",
+    "year" : "yil"
+  },
+  "shopping_page": {
+    "not_data": "Korzinka bo'm bo'sh",
+    "buy" : "Sotib olish"
+  },
+  "profile_page": {
+    "auth" : "Avtorizatsiya",
+    "login": "Kirish",
+    "sign_up": "Ro'yxatdan o'tish",
+    "error" : "Iltimos oldin raqam kiriting",
+    "number": "Telefon raqamingizni kiriting",
+    "send_to_code" : "Sizga kod jo'natildi",
+    "write_code" : "Kodni kiriting",
+    "not_correct": "Raqam noto'gri kiritilgan",
+    "code": "Kod olish",
+    "my_orders": {
+      "title": "Mening buyurtmalarim",
+      "leading_1": "Sizda",
+      "leading_2": "ta buyurtma mavjud",
+      "all": "Hammasi",
+      "process": "Protsesda",
+      "delivered": "Yetkazib berildi",
+      "cancelled": "Bekor qilindi",
+      "order": "Buyurtma",
+      "piece": "Dona:",
+      "track_code": "Trek kod:",
+      "more": {
+        "title": "Batafsil",
+        "detail": "Batafsil ma'lumot",
+        "shipping_adress": "Yetkazib berish manzili:",
+        "pay_type": "To'lov turi",
+        "cargo" : "Yetkazib berish usuli",
+        "free": "Bepul"
+      },
+      "total": "Umumiy:"
+    },
+    "favorite": {
+      "title": "Sevimlilar",
+      "leading_1": "Sizda",
+      "leading_2": "ta sevimli mahsulot mavjud",
+      "not_data": "Sevimli mahsulotlar hali qo'shilmagan",
+      "delete_favorite" : {
+        "title" : "O'chirishni tasdiqlash",
+        "description" : "Haqiqatdan ham ushbu elementni o'chirishni xohlaysizmi?",
+        "yes" : "HA",
+        "no" : "YO'Q"
+      }
+    },
+    "setting": {
+      "title": "Sozlamalar",
+      "account": "Akkount",
+      "notification": "Bildirishnomalar",
+      "lang": "Til",
+      "support": "Qo'llab quvvatlash",
+      "security": "Shaxsiy & Xavfsizlik",
+      "logout": "Chiqish",
+      "saved" : "O'zgarishlarni saqlash"
+    }
+  },
+  "drawer": {
+    "about": "Biz haqimizida",
+    "delivery": "Yetkazib berish haqida ma'lumot",
+    "contact": "Biz bilan bog'laning",
+    "location": {
+      "title": "Qayerda joylashganmiz",
+      "my_location": "Bu yerda joylashganmiz"
+    },
+    "version": "Dastur versiyasi"
+  },
+  "modal_check_order" : {
+    "add_order" : "Tovarni savatga qo'shmoqchimisiz",
+    "cart" : "Savatda: ",
+    "piece" : "Umumiy: ",
+    "get_order" : "Buyurtma berish"
+  },
+  "errors" : {
+    "has_error" : "Muammo yuz berdi: ",
+    "not_data" : "Kechirasiz ma'lumotni olish iloji bo'lmadi",
+    "not_connection" : " Internetga ulanishda muammo bor ma'lumotlarni olishni iloji bo'lmadi. Iltimos internetga ulanganlikingizga ishonch hosil qiling va qayta urining",
+    "not_favorite" : "Sevimli mahsulotlar hali qo'shilmagan",
+    "connection_1" : "Internetga ulanmagansiz!",
+    "connection_2" : " Iltimos internetingizni tekshiring."
+
+  },
+  "cargo" : {
+    "error" : "Kechirasiz yetkazib berish haqida hali ma'lumot qo'shilmagan noqulaylik uchun uzur!"
+
+  },
+  "onboarding_page" : {
+    "prev" : "O'tkazish",
+    "page_1" : "Endi biz bilan sotib olish yanada oson",
+    "page_2" : "Hamyonbop narxlar",
+    "page_3" : "Tezkor yetkazib bersih xizmati",
+    "button" : "Davom etish",
+    "button_final" : "Ro'yxatdan o'tish"
+  },
+  "new" : "yangi",
+  "snack_bar" : {
+    "title" : "O'ho' Sevimli mahsulotku : )",
+    "message" : " shu mahsulot sevimlilarga qo'shildi"
+  },
+  "help_support" : {
+    "error" : "Noqulaylik uchun uzr ma'lumot topilmadi"
+
+  },
+  "privacy_security" : {
+    "error" : "Noqulaylik uchun uzr ma'lumot topilmadi"
+  },
+  "isAuth" : "Oldin ro'yxatdan o'ting",
+  "name" : "Ism",
+  "number" : "Telefon raqam",
+  "cart" : {
+    "my_cart" : "Mening korzinam",
+    "location" : "Manzil",
+    "total_item" : "Soni:",
+    "total_price" : "Jami:",
+    "payment_type" : "To'lov turi",
+    "payment_card" : "Karta orqali to'lov",
+    "payment_money" : "Naqd pul orqali to'lov",
+    "continue" : "Davom etish",
+    "add_card" : "Kartangizni qo'shing",
+    "name" : "ISM FAMILYA",
+    "card_number" : "Karta raqam",
+    "validity" : "Amal qilish muddati",
+    "description" : "Karta qo'shildi, kartaga ulangan telefon raqamga to'lovni amalga oshirish uchun tasdiqlash kodi yuborildi. Iltimos kodni kiriting",
+    "write_code" : "Kodni kiriting",
+    "error_card" : "Karta raqam bo'sh"
+  },
+  "search_page" : {
+    "error_product" : "Mahsulot topilmadi",
+    "search_dialog" : "Nimani qidiramiz"
+  }
+
+
+}

@@ -1,0 +1,7 @@
+
+
+class AppHelpers {
+  AppHelpers._();
+
+
+}
